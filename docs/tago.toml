@@ -1,0 +1,10 @@
+title       = "wsrc"
+baseURL     = "https://wikisource-cli.tamnd.com/"
+description = "Browse English Wikisource texts"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/wikisource-cli"
